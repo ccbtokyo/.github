@@ -1,4 +1,4 @@
-![CCBT](https://github.com/ccbtokyo/.github/images/header_front.svg?raw=true
+![CCBT](https://github.com/ccbtokyo/.github/images/header_front.svg?raw=true)
 
 ## Our Projects
 
