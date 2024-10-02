@@ -5,12 +5,6 @@
 [![Instagram Follow](https://img.shields.io/badge/--FFFFFF?style=social&logo=instagram&label=Follow%20CCBT)](https://www.instagram.com/ccbtokyo/)
 -->
 
-シビック・クリエイティブ・ベース東京［CCBT］はアートとデジタルテクノロジーの活用を通じて人々の創造性を社会に発揮するための活動拠点です。  
-Hello‼️ We are 東京公民創意基地 / Civic Creative Base Tokyo (CCBT)
-
-📍東京都渋谷区宇田川町3-1 渋谷東武ホテル地下2階  
-🔗https://ccbt.rekibun.or.jp/
-
 ## Our Projects
 
 - [VisVib](https://ccbtokyo.github.io/visvib-manual/)
